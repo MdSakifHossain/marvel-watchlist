@@ -1,0 +1,1082 @@
+[
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/srmu4KEEugZVWVSu0Uibu0M2Usw.jpg",
+        "movieDes": "A scientific experiment unknowingly brings extraterrestrial life forms to the Earth through a laser beam. First is the cigar smoking drake Howard from the duck's planet. A few kids try to keep him from the greedy scientists and help him back to his planet. But then a much less friendly being arrives through the beam...",
+        "movieID": "1",
+        "movieName": "Howard the Duck",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/csBulWjE442zMwu0lT0DiEcTWQK.jpg",
+        "movieYear": "1986-08-01",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/tFmrdnfXM0p6ihMTFpptYOKEfSl.jpg",
+        "movieDes": "The avenging angel of Marvel Comics fame comes brilliantly to life in this searing action-adventure thriller! Dolph Lundgren stars as Frank Castle, a veteran cop who loses his entire family to a mafia car bomb. His ex-partner believes Castle survived the blast and became the Punisher, living in the sewers and exacting vigilante violence against mob bosses throughout the city. When the populace is caught in the midst of a gang war that he caused, Castle must again emerge from the shadows and save the innocent.",
+        "movieID": "2",
+        "movieName": "The Punisher",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/94uI2GcM1Za0dJVUSSuyI8gvQgX.jpg",
+        "movieYear": "1989-10-05",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/fHx9e35Vn7mMH3O0Fmfds70ABo8.jpg",
+        "movieDes": "During World War II, a brave, patriotic American Soldier undergoes experiments to become a new supersoldier, \"Captain America\". Racing to Germany to sabotage the rockets of Nazi baddie \"Red Skull\", Captain America winds up frozen until the 1990s. He reawakens to find that the Red Skull has changed identities and is now planning to kidnap the President of the United States.",
+        "movieID": "3",
+        "movieName": "Captain America",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/lUsDBhzogxYOU5XshARgnnZY4Xd.jpg",
+        "movieYear": "1990-12-14",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/hZnnUq0mrUQ3e54SJVca4mf2oAQ.jpg",
+        "movieDes": "The Daywalker known as \"Blade\" - a half-vampire, half-mortal man - becomes the protector of humanity against an underground army of vampires.",
+        "movieID": "4",
+        "movieName": "Blade",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/PDuKQeQkRHkdx7rY147VBVN5Ef.jpg",
+        "movieYear": "1998-08-21",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/u4gOTZLplCbP3IgcYcZ7e1zgOAo.jpg",
+        "movieDes": "Two mutants, Rogue and Wolverine, come to a private academy for their kind whose resident superhero team, the X-Men, must oppose a terrorist organization with similar powers.",
+        "movieID": "5",
+        "movieName": "X-Men",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/bRDAc4GogyS9ci3ow7UnInOcriN.jpg",
+        "movieYear": "2000-07-13",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/g8cjJHZFeZQ5GRbFiDp5jXgfOZW.jpg",
+        "movieDes": "A rare mutation has occurred within the vampire community - The Reaper. A vampire so consumed with an insatiable bloodlust that they prey on vampires as well as humans, transforming victims who are unlucky enough to survive into Reapers themselves. Blade is asked by the Vampire Nation for his help in preventing a nightmare plague that would wipe out both humans and vampires.",
+        "movieID": "6",
+        "movieName": "Blade II",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/yDHwo3eWcMiy5LnnEnlGV9iLu9k.jpg",
+        "movieYear": "2002-03-22",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/sWvxBXNtCOaGdtpKNLiOqmwb10N.jpg",
+        "movieDes": "After being bitten by a genetically altered spider at Oscorp, nerdy but endearing high school student Peter Parker is endowed with amazing powers to become the superhero known as Spider-Man.",
+        "movieID": "7",
+        "movieName": "Spider-Man",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/gh4cZbhZxyTbgxQPxD0dOudNPTn.jpg",
+        "movieYear": "2002-05-01",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/e7jIX02GiSwsgkU5lMpeKjwq2Zc.jpg",
+        "movieDes": "A man blinded in a childhood accident fights crime using his superhumanly-elevated remaining senses.",
+        "movieID": "8",
+        "movieName": "Daredevil",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/oCDBwSkntYamuw8VJIxMRCtDBmi.jpg",
+        "movieYear": "2003-02-14",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/loixNIKBURXfPcND4noz7E8FqCS.jpg",
+        "movieDes": "Professor Charles Xavier and his team of genetically gifted superheroes face a rising tide of anti-mutant sentiment led by Col. William Stryker. Storm, Wolverine and Jean Grey must join their usual nemeses—Magneto and Mystique—to unhinge Stryker's scheme to exterminate all mutants.",
+        "movieID": "9",
+        "movieName": "X2",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/bWMw0FMsY8DICgrQnrTSWbzEgtr.jpg",
+        "movieYear": "2003-04-27",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/kYd1ZMWvG9K2Jeop3XWXcTpJ2dB.jpg",
+        "movieDes": "Bruce Banner, a genetics researcher with a tragic past, suffers massive radiation exposure in his laboratory that causes him to transform into a raging green monster when he gets angry.",
+        "movieID": "10",
+        "movieName": "Hulk",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/qnngKqAcqfH2pBxDoKu5lxzSbTo.jpg",
+        "movieYear": "2003-06-19",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/4iypY05iUKFh3luIiVAGUofvsCb.jpg",
+        "movieDes": "When undercover FBI agent Frank Castle's wife and son are slaughtered, he becomes 'the Punisher' -- a ruthless vigilante willing to go to any length to avenge his family.",
+        "movieID": "11",
+        "movieName": "The Punisher",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/7rmA1HwYp2GKM85BL0cVwCaosGr.jpg",
+        "movieYear": "2004-04-15",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/6al048Lat3eLVQOuKtc9h6Tu94d.jpg",
+        "movieDes": "Peter Parker is going through a major identity crisis. Burned out from being Spider-Man, he decides to shelve his superhero alter ego, which leaves the city suffering in the wake of carnage left by the evil Doc Ock. In the meantime, Parker still can't act on his feelings for Mary Jane Watson, a girl he's loved since childhood. A certain anger begins to brew in his best friend Harry Osborn as well...",
+        "movieID": "12",
+        "movieName": "Spider-Man 2",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/olxpyq9kJAZ2NU1siLshhhXEPR7.jpg",
+        "movieYear": "2004-06-25",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/kYSbBz7khRScIdhlYzRHJrS0ZLt.jpg",
+        "movieDes": "For years, Blade has fought against the vampires in the cover of the night. But now, after falling into the crosshairs of the FBI, he is forced out into the daylight, where he is driven to join forces with a clan of human vampire hunters he never knew existed—The Nightstalkers. Together with Abigail and Hannibal, two deftly trained Nightstalkers, Blade follows a trail of blood to the ancient creature that is also hunting him—the original vampire, Dracula.",
+        "movieID": "13",
+        "movieName": "Blade: Trinity",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/rodqqX8NLe3cdcgBMc4CFTPidTy.jpg",
+        "movieYear": "2004-12-08",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/A8I20DNPLcusT0YFBAe1WumXiyU.jpg",
+        "movieDes": "Elektra the warrior survives a near-death experience, becomes an assassin-for-hire, and tries to protect her two latest targets, a single father and his young daughter, from a group of supernatural assassins.",
+        "movieID": "14",
+        "movieName": "Elektra",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/gC6s6NKHneSrOKyQZnUMb443RKU.jpg",
+        "movieYear": "2005-01-13",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/pE6vUmdiDCOgIw6hAZxnZSkIJQS.jpg",
+        "movieDes": "Agents of an oil tycoon vanish while exploring a swamp marked for drilling. The local sheriff investigates and faces a Seminole legend come to life: Man-Thing, a shambling swamp-monster whose touch burns those who feel fear.",
+        "movieID": "15",
+        "movieName": "Man-Thing",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/kfPPnOygXSGaBFpsCUyu7xQdkoO.jpg",
+        "movieYear": "2005-04-21",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/jkBEPKRq4HWlLwsMFMdDiYwaCle.jpg",
+        "movieDes": "During a space voyage, four scientists are altered by cosmic rays: Reed Richards gains the ability to stretch his body; Sue Storm can become invisible; Johnny Storm controls fire; and Ben Grimm is turned into a super-strong … thing. Together, these \"Fantastic Four\" must now thwart the evil plans of Dr. Doom and save the world from certain destruction.",
+        "movieID": "16",
+        "movieName": "Fantastic Four",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/8HLQLILZLhDQWO6JDpvY6XJLH75.jpg",
+        "movieYear": "2005-06-29",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/nYJ9hQe6F82bem3ufHAWBRyYm9m.jpg",
+        "movieDes": "When a cure is found to treat mutations, lines are drawn amongst the X-Men—led by Professor Charles Xavier—and the Brotherhood, a band of powerful mutants organised under Xavier's former ally, Magneto.",
+        "movieID": "17",
+        "movieName": "X-Men: The Last Stand",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/sNSvwqiNXjEvDSeQFsJAGPEP7Gl.jpg",
+        "movieYear": "2006-05-24",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/1dlXEyAxdysMCRvq9lgIr6Jds9H.jpg",
+        "movieDes": "In order to save his dying father, young stunt cyclist Johnny Blaze sells his soul to Mephistopheles and sadly parts from the pure-hearted Roxanne Simpson, the love of his life. Years later, Johnny's path crosses again with Roxanne, now a go-getting reporter, and also with Mephistopheles, who offers to release Johnny's soul if Johnny becomes the fabled, fiery 'Ghost Rider'.",
+        "movieID": "18",
+        "movieName": "Ghost Rider",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/8LaVQiXBsnlo7MXCPK1nXTVARUZ.jpg",
+        "movieYear": "2007-01-15",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/6MQmtWk4cFwSDyNvIgoJRBIHUT3.jpg",
+        "movieDes": "The seemingly invincible Spider-Man goes up against an all-new crop of villains—including the shape-shifting Sandman. While Spider-Man’s superpowers are altered by an alien organism, his alter ego, Peter Parker, deals with nemesis Eddie Brock and also gets caught up in a love triangle.",
+        "movieID": "19",
+        "movieName": "Spider-Man 3",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/fUZyFTovKMauA1zq9xDe6dmidRv.jpg",
+        "movieYear": "2007-05-01",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/7ff2FyFmskEFfmXHkxuqVr47DiG.jpg",
+        "movieDes": "The Fantastic Four return to the big screen as a new and all powerful enemy threatens the Earth. The seemingly unstoppable 'Silver Surfer', but all is not what it seems and there are old and new enemies that pose a greater threat than the intrepid superheroes realize.",
+        "movieID": "20",
+        "movieName": "Fantastic Four: Rise of the Silver Surfer",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/9wRfzTcMyyzkQxVDqBHv8RwuZOv.jpg",
+        "movieYear": "2007-06-13",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/cyecB7godJ6kNHGONFjUyVN9OX5.jpg",
+        "movieDes": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
+        "movieID": "21",
+        "movieName": "Iron Man",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+        "movieYear": "2008-04-30",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/jPu8yiadqgzwFPGKJmGo637ASVP.jpg",
+        "movieDes": "Scientist Bruce Banner scours the planet for an antidote to the unbridled force of rage within him: the Hulk. But when the military masterminds who dream of exploiting his powers force him back to civilization, he finds himself coming face to face with a new, deadly foe.",
+        "movieID": "22",
+        "movieName": "The Incredible Hulk",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/gKzYx79y0AQTL4UAk1cBQJ3nvrm.jpg",
+        "movieYear": "2008-06-12",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/dqPZpQy6PJINOJtld17NgIERusH.jpg",
+        "movieDes": "Waging his one-man war on the world of organized crime, ruthless vigilante-hero Frank Castle sets his sights on overeager mob boss Billy Russoti. After Russoti is left horribly disfigured by Castle, he sets out for vengeance under his new alias: Jigsaw. With the \"Punisher Task Force\" hot on his trail and the FBI unable to take Jigsaw in, Frank must stand up to the formidable army that Jigsaw has recruited before more of his evil deeds go unpunished.",
+        "movieID": "23",
+        "movieName": "Punisher: War Zone",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/oOvKJgYUIpfswGHAdW6159bPbvM.jpg",
+        "movieYear": "2008-12-05",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/wvqdJLVh0mSblly7UnYFPEk04Wd.jpg",
+        "movieDes": "After seeking to live a normal life, Logan sets out to avenge the death of his girlfriend by undergoing the mutant Weapon X program and becoming Wolverine.",
+        "movieID": "24",
+        "movieName": "X-Men Origins: Wolverine",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/yj8LbTju1p7CUJg7US2unSBk33s.jpg",
+        "movieYear": "2009-04-28",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/7lmBufEG7P7Y1HClYK3gCxYrkgS.jpg",
+        "movieDes": "With the world now aware of his dual life as the armored superhero Iron Man, billionaire inventor Tony Stark faces pressure from the government, the press and the public to share his technology with the military. Unwilling to let go of his invention, Stark, with Pepper Potts and James 'Rhodey' Rhodes at his side, must forge new alliances – and confront powerful enemies.",
+        "movieID": "25",
+        "movieName": "Iron Man 2",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg",
+        "movieYear": "2010-04-28",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/cDJ61O1STtbWNBwefuqVrRe3d7l.jpg",
+        "movieDes": "Against his father Odin's will, The Mighty Thor - a powerful but arrogant warrior god - recklessly reignites an ancient war. Thor is cast down to Earth and forced to live among humans as punishment. Once here, Thor learns what it takes to be a true hero when the most dangerous villain of his world sends the darkest forces of Asgard to invade Earth.",
+        "movieID": "25",
+        "movieName": "Thor",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg",
+        "movieYear": "2011-04-21",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/7kURId6slyHNujYpCFm0Z1M3kRt.jpg",
+        "movieDes": "Before Charles Xavier and Erik Lensherr took the names Professor X and Magneto, they were two young men discovering their powers for the first time. Before they were arch-enemies, they were closest of friends, working together with other mutants (some familiar, some new), to stop the greatest threat the world has ever known.",
+        "movieID": "27",
+        "movieName": "X-Men: First Class",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/vUvlOY575rztBuJV3a0dbHW5MQR.jpg",
+        "movieYear": "2011-06-01",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/yFuKvT4Vm3sKHdFY4eG6I4ldAnn.jpg",
+        "movieDes": "During World War II, Steve Rogers is a sickly man from Brooklyn who's transformed into super-soldier Captain America to aid in the war effort. Rogers must stop the Red Skull – Adolf Hitler's ruthless head of weaponry, and the leader of an organization that intends to use a mysterious device of untold powers for world domination.",
+        "movieID": "28",
+        "movieName": "Captain America: The First Avenger",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/vSNxAJTlD0r02V9sPYpOjqDZXUK.jpg",
+        "movieYear": "2011-07-22",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/aHc765LRg5d5DtoS4LKiGEROWrq.jpg",
+        "movieDes": "When the devil resurfaces with aims to take over the world in human form, Johnny Blaze reluctantly comes out of hiding to transform into the flame-spewing supernatural hero Ghost Rider -- and rescue a 10-year-old boy from an unsavory end.",
+        "movieID": "29",
+        "movieName": "Ghost Rider: Spirit of Vengeance",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/fDtIZXLNreDHk3mOskJYABrQNOQ.jpg",
+        "movieYear": "2011-12-11",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
+        "movieDes": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!",
+        "movieID": "30",
+        "movieName": "The Avengers",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+        "movieYear": "2012-04-25",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/sLWUtbrpiLp23a0XDSiUiltdFPJ.jpg",
+        "movieDes": "Peter Parker is an outcast high schooler abandoned by his parents as a boy, leaving him to be raised by his Uncle Ben and Aunt May. Like most teenagers, Peter is trying to figure out who he is and how he got to be the person he is today. As Peter discovers a mysterious briefcase that belonged to his father, he begins a quest to understand his parents' disappearance – leading him directly to Oscorp and the lab of Dr. Curt Connors, his father's former partner. As Spider-Man is set on a collision course with Connors' alter ego, The Lizard, Peter will make life-altering choices to use his powers and shape his destiny to become a hero.",
+        "movieID": "31",
+        "movieName": "The Amazing Spider-Man",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/fSbqPbqXa7ePo8bcnZYN9AHv6zA.jpg",
+        "movieYear": "2012-06-23",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/tKa1gmGKAUVYnflYcadipeL3d9h.jpg",
+        "movieDes": "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.",
+        "movieID": "32",
+        "movieName": "Iron Man 3",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg",
+        "movieYear": "2013-04-18",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/7D2PgX369YYePs4m44IQvROWM42.jpg",
+        "movieDes": "Wolverine faces his ultimate nemesis - and tests of his physical, emotional, and mortal limits - in a life-changing voyage to modern-day Japan.",
+        "movieID": "33",
+        "movieName": "The Wolverine",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/t2wVAcoRlKvEIVSbiYDb8d0QqqS.jpg",
+        "movieYear": "2013-07-23",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/uhYoytlNaq46dG81wLmHqaSuzWu.jpg",
+        "movieDes": "Thor fights to restore order across the cosmos… but an ancient race led by the vengeful Malekith returns to plunge the universe back into darkness. Faced with an enemy that even Odin and Asgard cannot withstand, Thor must embark on his most perilous and personal journey yet, one that will reunite him with Jane Foster and force him to sacrifice everything to save us all.",
+        "movieID": "34",
+        "movieName": "Thor: The Dark World",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/wp6OxE4poJ4G7c0U2ZIXasTSMR7.jpg",
+        "movieYear": "2013-10-30",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/yHB0eNR8rvCpn0VdghEwBsXAC0N.jpg",
+        "movieDes": "After the cataclysmic events in New York with The Avengers, Steve Rogers, aka Captain America is living quietly in Washington, D.C. and trying to adjust to the modern world. But when a S.H.I.E.L.D. colleague comes under attack, Steve becomes embroiled in a web of intrigue that threatens to put the world at risk. Joining forces with the Black Widow, Captain America struggles to expose the ever-widening conspiracy while fighting off professional assassins sent to silence him at every turn. When the full scope of the villainous plot is revealed, Captain America and the Black Widow enlist the help of a new ally, the Falcon. However, they soon find themselves up against an unexpected and formidable enemy—the Winter Soldier.",
+        "movieID": "35",
+        "movieName": "Captain America: The Winter Soldier",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg",
+        "movieYear": "2014-03-20",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/mPyiNWS0upEG1mGKOKyCQSoZpnp.jpg",
+        "movieDes": "For Peter Parker, life is busy. Between taking out the bad guys as Spider-Man and spending time with the person he loves, Gwen Stacy, high school graduation cannot come quickly enough. Peter has not forgotten about the promise he made to Gwen’s father to protect her by staying away, but that is a promise he cannot keep. Things will change for Peter when a new villain, Electro, emerges, an old friend, Harry Osborn, returns, and Peter uncovers new clues about his past.",
+        "movieID": "36",
+        "movieName": "The Amazing Spider-Man 2",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/c3e9e18SSlvFd1cQaGmUj5tqL5P.jpg",
+        "movieYear": "2014-04-16",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/hUPgIibqZlwbhs4N08cPzzc4f5K.jpg",
+        "movieDes": "The ultimate X-Men ensemble fights a war for the survival of the species across two time periods as they join forces with their younger selves in an epic battle that must change the past – to save our future.",
+        "movieID": "37",
+        "movieName": "X-Men: Days of Future Past",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/9aq2sHfkkAFwH0wi4bZasXA8NbS.jpg",
+        "movieYear": "2014-05-15",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/2UFxrUHVuSK3Tth7DvQQlF4mGTd.jpg",
+        "movieDes": "Light years from Earth, 26 years after being abducted, Peter Quill finds himself the prime target of a manhunt after discovering an orb wanted by Ronan the Accuser.",
+        "movieID": "38",
+        "movieName": "Guardians of the Galaxy",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
+        "movieYear": "2014-07-30",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/5tub2Kw6NboWFblA1CgDEwB59jP.jpg",
+        "movieDes": "A special bond develops between plus-sized inflatable robot Baymax, and prodigy Hiro Hamada, who team up with a group of friends to form a band of high-tech heroes.",
+        "movieID": "39",
+        "movieName": "Big Hero 6",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/2mxS4wUimwlLmI1xp6QW6NSU361.jpg",
+        "movieYear": "2014-10-24",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/6YwkGolwdOMNpbTOmLjoehlVWs5.jpg",
+        "movieDes": "When Tony Stark tries to jumpstart a dormant peacekeeping program, things go awry and Earth’s Mightiest Heroes are put to the ultimate test as the fate of the planet hangs in the balance. As the villainous Ultron emerges, it is up to The Avengers to stop him from enacting his terrible plans, and soon uneasy alliances and unexpected action pave the way for an epic and unique global adventure.",
+        "movieID": "40",
+        "movieName": "Avengers: Age of Ultron",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg",
+        "movieYear": "2015-04-22",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/a7sAqMKv5tkAdMzFfIhPqIBmQ9g.jpg",
+        "movieDes": "Armed with the astonishing ability to shrink in scale but increase in strength, master thief Scott Lang must embrace his inner-hero and help his mentor, Doctor Hank Pym, protect the secret behind his spectacular Ant-Man suit from a new generation of towering threats. Against seemingly insurmountable obstacles, Pym and Lang must plan and pull off a heist that will save the world.",
+        "movieID": "41",
+        "movieName": "Ant-Man",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/rS97hUJ1otKTTripGwQ0ujbuIri.jpg",
+        "movieYear": "2015-07-14",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/gzhVcfC5j0sTnS4WJzBrCS0Vkr0.jpg",
+        "movieDes": "Four young outsiders teleport to a dangerous universe, which alters their physical form in shocking ways. Their lives irrevocably upended, the team must learn to harness their daunting new abilities and work together to save Earth from a former friend turned enemy.",
+        "movieID": "42",
+        "movieName": "Fantastic Four",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/oeMpEsjmiT9PEJbRM1Fm7TZ1dE0.jpg",
+        "movieYear": "2015-08-05",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/n28I7FNYIT934OoHhKZn4IIDsrQ.jpg",
+        "movieDes": "The origin story of former Special Forces operative turned mercenary Wade Wilson, who, after being subjected to a rogue experiment that leaves him with accelerated healing powers, adopts the alter ego Deadpool. Armed with his new abilities and a dark, twisted sense of humor, Deadpool hunts down the man who nearly destroyed his life.",
+        "movieID": "43",
+        "movieName": "Deadpool",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/zq8Cl3PNIDGU3iWNRoc5nEZ6pCe.jpg",
+        "movieYear": "2016-02-09",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/wdwcOBMkt3zmPQuEMxB3FUtMio2.jpg",
+        "movieDes": "Following the events of Age of Ultron, the collective governments of the world pass an act designed to regulate all superhuman activity. This polarizes opinion amongst the Avengers, causing two factions to side with Iron Man or Captain America, which causes an epic battle between former allies.",
+        "movieID": "44",
+        "movieName": "Captain America: Civil War",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
+        "movieYear": "2016-04-27",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/2ex2beZ4ssMeOduLD0ILzXKCiep.jpg",
+        "movieDes": "After the re-emergence of the world's first mutant, world-destroyer Apocalypse, the X-Men must unite to defeat his extinction level plan.",
+        "movieID": "45",
+        "movieName": "X-Men: Apocalypse",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/qttNmCib9gHhR5q0QoZ3FgmGom9.jpg",
+        "movieYear": "2016-05-18",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/qUv51IFUvVRAP2379ThmA3eLJx6.jpg",
+        "movieDes": "After his career is destroyed, a brilliant but arrogant surgeon gets a new lease on life when a sorcerer takes him under her wing and trains him to defend the world against evil.",
+        "movieID": "46",
+        "movieName": "Doctor Strange",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/uGBVj3bEbCoZbDjjl9wTxcygko1.jpg",
+        "movieYear": "2016-10-25",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/9X7YweCJw3q8Mcf6GadxReFEksM.jpg",
+        "movieDes": "In the near future, a weary Logan cares for an ailing Professor X in a hideout on the Mexican border. But Logan's attempts to hide from the world and his legacy are upended when a young mutant arrives, pursued by dark forces.",
+        "movieID": "47",
+        "movieName": "Logan",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/fnbjcRDYn6YviCcePDnGdyAkYsB.jpg",
+        "movieYear": "2017-02-28",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/aJn9XeesqsrSLKcHfHP4u5985hn.jpg",
+        "movieDes": "The Guardians must fight to keep their newfound family together as they unravel the mysteries of Peter Quill's true parentage.",
+        "movieID": "48",
+        "movieName": "Guardians of the Galaxy Vol. 2",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg",
+        "movieYear": "2017-04-19",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/tTlAA0REGPXSZPBfWyTW9ipIv1I.jpg",
+        "movieDes": "Following the events of Captain America: Civil War, Peter Parker, with the help of his mentor Tony Stark, tries to balance his life as an ordinary high school student in Queens, New York City, with fighting crime as his superhero alter ego Spider-Man as a new threat, the Vulture, emerges.",
+        "movieID": "49",
+        "movieName": "Spider-Man: Homecoming",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg",
+        "movieYear": "2017-07-05",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/kaIfm5ryEOwYg8mLbq8HkPuM1Fo.jpg",
+        "movieDes": "Thor is imprisoned on the other side of the universe and finds himself in a race against time to get back to Asgard to stop Ragnarok, the destruction of his home-world and the end of Asgardian civilization, at the hands of a powerful new threat, the ruthless Hela.",
+        "movieID": "50",
+        "movieName": "Thor: Ragnarok",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
+        "movieYear": "2017-10-24",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/6ELJEzQJ3Y45HczvreC3dg0GV5R.jpg",
+        "movieDes": "King T'Challa returns home to the reclusive, technologically advanced African nation of Wakanda to serve as his country's new leader. However, T'Challa soon finds that he is challenged for the throne by factions within his own country as well as without. Using powers reserved to Wakandan kings, T'Challa assumes the Black Panther mantle to join with ex-girlfriend Nakia, the queen-mother, his princess-kid sister, members of the Dora Milaje (the Wakandan 'special forces') and an American secret agent, to prevent Wakanda from being dragged into a world war.",
+        "movieID": "51",
+        "movieName": "Black Panther",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+        "movieYear": "2018-02-13",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
+        "movieDes": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
+        "movieID": "52",
+        "movieName": "Avengers: Infinity War",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+        "movieYear": "2018-04-25",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/3P52oz9HPQWxcwHOwxtyrVV1LKi.jpg",
+        "movieDes": "Wisecracking mercenary Deadpool battles the evil and powerful Cable and other bad guys to save a boy's life.",
+        "movieID": "53",
+        "movieName": "Deadpool 2",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg",
+        "movieYear": "2018-05-10",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/2tcTm5oRlRN5fKFvY4Gbrwp8h38.jpg",
+        "movieDes": "Just when his time under house arrest is about to end, Scott Lang once again puts his freedom at risk to help Hope van Dyne and Dr. Hank Pym dive into the quantum realm and try to accomplish, against time and any chance of success, a very dangerous rescue mission.",
+        "movieID": "54",
+        "movieName": "Ant-Man and the Wasp",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/eivQmS3wqzqnQWILHLc4FsEfcXP.jpg",
+        "movieYear": "2018-07-04",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+        "movieDes": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+        "movieID": "55",
+        "movieName": "Venom",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+        "movieYear": "2018-09-28",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/9LuL3pwJiwIWSckeCbOX8G12F4X.jpg",
+        "movieDes": "Miles Morales is juggling his life between being a high school student and being a spider-man. When Wilson \"Kingpin\" Fisk uses a super collider, others from across the Spider-Verse are transported to this dimension.",
+        "movieID": "56",
+        "movieName": "Spider-Man: Into the Spider-Verse",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+        "movieYear": "2018-12-06",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/w2PMyoyLU22YvrGK3smVM9fW1jj.jpg",
+        "movieDes": "The story follows Carol Danvers as she becomes one of the universe’s most powerful heroes when Earth is caught in the middle of a galactic war between two alien races. Set in the 1990s, Captain Marvel is an all-new adventure from a previously unseen period in the history of the Marvel Cinematic Universe.",
+        "movieID": "57",
+        "movieName": "Captain Marvel",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg",
+        "movieYear": "2019-03-06",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+        "movieDes": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
+        "movieID": "58",
+        "movieName": "Avengers: Endgame",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+        "movieYear": "2019-04-24",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/ng6SSB3JhbcpKTwbPDsRwUYK8Cq.jpg",
+        "movieDes": "Peter Parker and his friends go on a summer trip to Europe. However, they will hardly be able to rest - Peter will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent.",
+        "movieID": "59",
+        "movieName": "Spider-Man: Far from Home",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg",
+        "movieYear": "2019-06-28",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/cjRUhKyt2Jo3V1KNzc5tpPNfccG.jpg",
+        "movieDes": "The X-Men face their most formidable and powerful foe when one of their own, Jean Grey, starts to spiral out of control. During a rescue mission in outer space, Jean is nearly killed when she's hit by a mysterious cosmic force. Once she returns home, this force not only makes her infinitely more powerful, but far more unstable. The X-Men must now band together to save her soul and battle aliens that want to use Grey's new abilities to rule the galaxy.",
+        "movieID": "60",
+        "movieName": "Dark Phoenix",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/kZv92eTc0Gg3mKxqjjDAM73z9cy.jpg",
+        "movieYear": "2019-06-05",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/keIxh0wPr2Ymj0Btjh4gW7JJ89e.jpg",
+        "movieDes": "Natasha Romanoff, also known as Black Widow, confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises. Pursued by a force that will stop at nothing to bring her down, Natasha must deal with her history as a spy and the broken relationships left in her wake long before she became an Avenger.",
+        "movieID": "61",
+        "movieName": "Black Widow",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/ytnhzdwtj0YfC5NVWrrPRGSGZb7.jpg",
+        "movieYear": "2021-07-07",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/vIgyYkXkg6NC2whRbYjBD7eb3Er.jpg",
+        "movieDes": "After finding a host body in investigative reporter Eddie Brock, the alien symbiote must face a new enemy, Carnage, the alter ego of serial killer Cletus Kasady.",
+        "movieID": "62",
+        "movieName": "Venom: Let There Be Carnage",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/rjkmN1dniUHVYAtwuV3Tji7FsDO.jpg",
+        "movieYear": "2021-09-30",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/jzWT0zd8U77fqWg5WgUfYaMzSFz.jpg",
+        "movieDes": "Dangerously ill with a rare blood disorder, and determined to save others suffering his same fate, Dr. Michael Morbius attempts a desperate gamble. What at first appears to be a radical success soon reveals itself to be a remedy potentially worse than the disease.",
+        "movieID": "63",
+        "movieName": "Morbius",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/6JjfSchsU6daXk2AKX8EEBjO3Fm.jpg",
+        "movieYear": "2022-03-30",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/zxWAv1A34kdYslBi4ekMDtgIGUt.jpg",
+        "movieDes": "Shang-Chi must confront the past he thought he left behind when he is drawn into the web of the mysterious Ten Rings organization.",
+        "movieID": "64",
+        "movieName": "Shang-Chi and the Legend of the Ten Rings",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/1BIoJGKbXjdFDAqUEiA2VHqkK1Z.jpg",
+        "movieYear": "2021-09-01",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/c6H7Z4u73ir3cIoCteuhJh7UCAR.jpg",
+        "movieDes": "The Eternals are a team of ancient aliens who have been living on Earth in secret for thousands of years. When an unexpected tragedy forces them out of the shadows, they are forced to reunite against mankind’s most ancient enemy, the Deviants.",
+        "movieID": "65",
+        "movieName": "Eternals",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/lFByFSLV5WDJEv3KabbdAF959F2.jpg",
+        "movieYear": "2021-11-03",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/14QbnygCuTO0vl7CAFmPf1fgZfV.jpg",
+        "movieDes": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
+        "movieID": "66",
+        "movieName": "Spider-Man: No Way Home",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/uJYYizSuA9Y3DCs0qS4qWvHfZg4.jpg",
+        "movieYear": "2021-12-15",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/gUNRlH66yNDH3NQblYMIwgZXJ2u.jpg",
+        "movieDes": "Doctor Strange, with the help of mystical allies both old and new, traverses the mind-bending and dangerous alternate realities of the Multiverse to confront a mysterious new adversary.",
+        "movieID": "67",
+        "movieName": "Doctor Strange in the Multiverse of Madness",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
+        "movieYear": "2022-05-04",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/jsoz1HlxczSuTx0mDl2h0lxy36l.jpg",
+        "movieDes": "After his retirement is interrupted by Gorr the God Butcher, a galactic killer who seeks the extinction of the gods, Thor Odinson enlists the help of King Valkyrie, Korg, and ex-girlfriend Jane Foster, who now wields Mjolnir as the Mighty Thor. Together they embark upon a harrowing cosmic adventure to uncover the mystery of the God Butcher’s vengeance and stop him before it’s too late.",
+        "movieID": "68",
+        "movieName": "Thor: Love and Thunder",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg",
+        "movieYear": "2022-07-06",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/yYrvN5WFeGYjJnRzhY0QXuo4Isw.jpg",
+        "movieDes": "Queen Ramonda, Shuri, M’Baku, Okoye and the Dora Milaje fight to protect their nation from intervening world powers in the wake of King T’Challa’s death. As the Wakandans strive to embrace their next chapter, the heroes must band together with the help of War Dog Nakia and Everett Ross and forge a new path for the kingdom of Wakanda.",
+        "movieID": "69",
+        "movieName": "Black Panther: Wakanda Forever",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",
+        "movieYear": "2022-11-09",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/dbuR6XuVubN5ZmRUiOycZi2457l.jpg",
+        "movieDes": "Superhero duo Scott Lang and Hope Van Dyne, together with Hope’s parents Hank Pym and Janet Van Dyne, find themselves exploring the Quantum Realm, interacting with strange new creatures, and embarking on an adventure that will push them beyond the limits of what they thought was possible.",
+        "movieID": "70",
+        "movieName": "Ant-Man and the Wasp: Quantumania",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/4WD4HRsUyTEIn1WJ59aQ1ChM4cW.jpg",
+        "movieYear": "2023-02-15",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/7TUp4uKIaX9c2TAZLPwjty5A0EP.jpg",
+        "movieDes": "Peter Quill, still reeling from the loss of Gamora, must rally his team around him to defend the universe along with protecting one of their own. A mission that, if not completed successfully, could quite possibly lead to the end of the Guardians as we know them.",
+        "movieID": "71",
+        "movieName": "Guardians of the Galaxy Vol. 3",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/vTHksHVPvRCsbH7TUmYXbsrBI2T.jpg",
+        "movieYear": "2023-05-03",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/3AbHZcRdon7TmpqracuQqgJxOGE.jpg",
+        "movieDes": "Carol Danvers, Monica Rambeau, and Kamala Khan trade places with each other every time they use their powers and must team up to fix their problem.",
+        "movieID": "72",
+        "movieName": "The Marvels",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/fSF50m9IeLCFlObnC2qGTT44f9a.jpg",
+        "movieYear": "2023-07-26",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/qYvpc3qLb0LpGOBS7JOq5RxYt0x.jpg",
+        "movieDes": "A sequel to Marvel Studios' The Falcon and the Winter Soldier and follows Sam Wilson as the new Captain America.",
+        "movieID": "73",
+        "movieName": "Captain America: New World Order",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/3DgdfIoJsGnEvSSvUs5hOAYbZlL.jpg",
+        "movieYear": "2024-05-01",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/vzVojqW0zF9QrXVGuj8PwhxWACD.jpg",
+        "movieDes": "A world without Avengers doesn't mean there's not a group of superheroes. There is a group and they're called the Thunderbolts.",
+        "movieID": "74",
+        "movieName": "Thunderbolts",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/dHhniU1vz1C0j27AFdcsPmq6xu.jpg",
+        "movieYear": "2024-07-24",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/hFtJz4TvoiJJcw2ZOMdhK22aU9P.jpg",
+        "movieDes": "",
+        "movieID": "75",
+        "movieName": "Blade",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/fKqA4rgVJwrM7Gb3tQ9TGHnu8Tr.jpg",
+        "movieYear": "2024-09-04",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/fqke1N6xfdPDz3GjR5If3grePbk.jpg",
+        "movieDes": "The third installment in the Deadpool franchise.",
+        "movieID": "76",
+        "movieName": "Deadpool 3",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/wk0JEj291T0fjORpW69mTFhaVOv.jpg",
+        "movieYear": "2024-11-06",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/qlwBv4v6EoeN2JxGWziT2kSyoVe.jpg",
+        "movieDes": "Set in the Marvel Cinematic Universe (MCU) and based on the Marvel Comics characters of the same name",
+        "movieID": "77",
+        "movieName": "Fantastic Four",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/jatnqRPnxjg2Q6cFsAjmrBNhx9.jpg",
+        "movieYear": "2025-02-12",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/uR952NrgispGuyqIdUbkR24vE0u.jpg",
+        "movieDes": "An upcoming Phase 6 Marvel Cinematic Universe film and part of The Multiverse Saga.",
+        "movieID": "78",
+        "movieName": "Avengers: The Kang Dynasty",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/utZTb3VBrH0zR77BcISU67pHuAx.jpg",
+        "movieYear": "2025-04-30",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/jqFC2WjYF07hx2X7cs0XmY9jBX6.jpg",
+        "movieDes": "An upcoming Phase 6 Marvel Cinematic Universe film that will conclude the Multiverse Saga.",
+        "movieID": "79",
+        "movieName": "Avengers: Secret Wars",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/8chwENebfUEJzZ7sMUA0nOgiCKk.jpg",
+        "movieYear": "2026-04-29",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/aZkUbLPcPoLKRxu4T7i2RnL3y3n.jpg",
+        "movieDes": "Blade is a half-man, half-vampire who employs his extraordinary powers in a crusade to save mankind from the demonic creatures who walk the night. Set in Detroit, Blade investigates the vampire house of Chthon. Along the way he forms an uneasy alliance with Krista Starr, a former military veteran who becomes entrenched in the world of vampires while investigating the murder of her twin brother.",
+        "movieID": "80",
+        "movieName": "Blade: The Series",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/xthJ8MoYaJROntPHaI5mUrXd4Qs.jpg",
+        "movieYear": "2006-06-28",
+        "type": "TV"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/80BRASQnT9KT7BkFeEI0EdeRIF3.jpg",
+        "movieDes": "Agent Phil Coulson of S.H.I.E.L.D. (Strategic Homeland Intervention, Enforcement and Logistics Division) puts together a team of agents to investigate the new, the strange and the unknown around the globe, protecting the ordinary from the extraordinary.",
+        "movieID": "81",
+        "movieName": "Marvel's Agents of S.H.I.E.L.D.",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/gHUCCMy1vvj58tzE3dZqeC9SXus.jpg",
+        "movieYear": "2013-09-24",
+        "type": "TV"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/42jCFhJyYt8GhE3WAOkzK3rZABt.jpg",
+        "movieDes": "Elena \"Yo-Yo\" Rodriguez, an Inhuman with the ability to move at super-speed, is required to sign the Sokovia Accords. However, the restrictions of the Accords are in direct conflict with a personal mission she's desperate to fulfill, one that will test her abilities and will include tense encounters with S.H.I.E.L.D. team members.",
+        "movieID": "82",
+        "movieName": "Marvel's Agents of S.H.I.E.L.D.: Slingshot",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/bwJej7WdmGRMCMyuDlotwAqVX7S.jpg",
+        "movieYear": "2016-12-13",
+        "type": "TV"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/MaQ7hbNsiJ30p14UgRdEnXDGMH.jpg",
+        "movieDes": "It's 1946, and peace has dealt Peggy Carter a serious blow as she finds herself marginalized when the men return home from fighting abroad. Working for the covert SSR (Strategic Scientific Reserve), Peggy must balance doing administrative work and going on secret missions for Howard Stark all while trying to navigate life as a single woman in America, in the wake of losing the love of her life - Steve Rogers.",
+        "movieID": "83",
+        "movieName": "Marvel's Agent Carter",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/8Y30TnBtGT4C7RI3nruPaIGGSkZ.jpg",
+        "movieYear": "2015-01-06",
+        "type": "TV"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/r1e0lDIsezrklektX82AetUHr5m.jpg",
+        "movieDes": "David Haller, AKA Legion, is a troubled young man who may be more than human. Diagnosed as schizophrenic, David has been in and out of psychiatric hospitals for years. But after a strange encounter with a fellow patient, he’s confronted with the possibility that the voices he hears and the visions he sees might be real.",
+        "movieID": "84",
+        "movieName": "Legion",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/vT0Zsbm4GWd7llNjgWEtwY0CqOv.jpg",
+        "movieYear": "2017-02-08",
+        "type": "TV"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/7PYAUaJzzUVxS4xiJHFe338vJd1.jpg",
+        "movieDes": "Every teenager thinks their parents are evil. What if you found out they actually were? Six diverse teenagers who can barely stand each other must unite against a common foe – their parents.",
+        "movieID": "85",
+        "movieName": "Marvel's Runaways",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/zceMrfO17AQkeWJZNra4O90s1vE.jpg",
+        "movieYear": "2017-11-21",
+        "type": "TV"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/9ijMGlJKqcslswWUzTEwScm82Gs.jpg",
+        "movieDes": "After the fall of the Galactic Empire, lawlessness has spread throughout the galaxy. A lone gunfighter makes his way through the outer reaches, earning his keep as a bounty hunter.",
+        "movieID": "86",
+        "movieName": "The Mandalorian",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/sWgBv7LV2PRoQgkxwlibdGXKz1S.jpg",
+        "movieYear": "2019-11-12",
+        "type": "TV"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/4amkATUf2mh5QL9OQ3WmHQqx9wk.jpg",
+        "movieDes": "Two teenagers from very different backgrounds awaken to newly acquired superpowers which mysteriously link them to one another.",
+        "movieID": "87",
+        "movieName": "Marvel's Cloak & Dagger",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/gC20yybaer1cKA5HXSji4briMdu.jpg",
+        "movieYear": "2018-06-07",
+        "type": "TV"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/18inwHlpKnK9mt02wFBJoIVKXI.jpg",
+        "movieDes": "A suburban couple's ordinary lives are rocked by the sudden discovery that their children possess mutant powers. Forced to go on the run from a hostile government, the family joins up with an underground network of mutants and must fight to survive.",
+        "movieID": "88",
+        "movieName": "The Gifted",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/nshCqszjTNuqhrB53vrSqWO18sE.jpg",
+        "movieYear": "2017-10-02",
+        "type": "TV"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/qCReQONjNVaW4QFN2V5vCOzPvex.jpg",
+        "movieDes": "Daimon and Ana Helstrom are the son and daughter of a mysterious and powerful serial killer. The siblings have a complicated dynamic as they track down the terrorizing worst of humanity — each with their attitude and skills.",
+        "movieID": "89",
+        "movieName": "Helstrom",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/8fPIcaRIZgsoBcgA5yAm3GNz61M.jpg",
+        "movieYear": "2020-10-16",
+        "type": "TV"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/j5aOOtsJinQtyRaqiB12TTRHdeX.jpg",
+        "movieDes": "A former Marine out to punish the criminals responsible for his family's murder finds himself ensnared in a military conspiracy.",
+        "movieID": "90",
+        "movieName": "Marvel's The Punisher",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/9tepVli4YijTCHyiATRvoR4c64X.jpg",
+        "movieYear": "2017-11-17",
+        "type": "TV"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/fjEOQhzZk2Or7VYUBeMx5ZIwU95.jpg",
+        "movieDes": "After a tragic ending to her short-lived super hero stint, Jessica Jones is rebuilding her personal life and career as a detective who gets pulled into cases involving people with extraordinary abilities in New York City.",
+        "movieID": "91",
+        "movieName": "Marvel's Jessica Jones",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/1ghmaDw650NuUpGI7mYq6xE2QE2.jpg",
+        "movieYear": "2015-11-20",
+        "type": "TV"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/7rRnZrZr1QPlJ6BcrrVMVGoy55X.jpg",
+        "movieDes": "Lawyer-by-day Matt Murdock uses his heightened senses from being blinded as a young boy to fight crime at night on the streets of Hell’s Kitchen as Daredevil.",
+        "movieID": "92",
+        "movieName": "Marvel's Daredevil",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/QWbPaDxiB6LW2LjASknzYBvjMj.jpg",
+        "movieYear": "2015-04-10",
+        "type": "TV"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/j7AHhA0bH5FlVPVMFcKNOLC4PMv.jpg",
+        "movieDes": "Given superstrength and durability by a sabotaged experiment, a wrongly accused man escapes prison to become a superhero for hire.",
+        "movieID": "93",
+        "movieName": "Marvel's Luke Cage",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/quTfV803fGaSADzTeEqCbIZnt9d.jpg",
+        "movieYear": "2016-09-30",
+        "type": "TV"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/xHCfWGlxwbtMeeOnTvxUCZRGnkk.jpg",
+        "movieDes": "Danny Rand resurfaces 15 years after being presumed dead. Now, with the power of the Iron Fist, he seeks to reclaim his past and fulfill his destiny.",
+        "movieID": "94",
+        "movieName": "Marvel's Iron Fist",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/4l6KD9HhtD6nCDEfg10Lp6C6zah.jpg",
+        "movieYear": "2017-03-17",
+        "type": "TV"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/n4XLn0wLCxWSFaQgG6queZlFPKi.jpg",
+        "movieDes": "Daredevil, Jessica Jones, Luke Cage and Iron Fist join forces to take on common enemies as a sinister conspiracy threatens New York City.",
+        "movieID": "95",
+        "movieName": "Marvel's The Defenders",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/49XzINhH4LFsgz7cx6TOPcHUJUL.jpg",
+        "movieYear": "2017-08-18",
+        "type": "TV"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/wAEWZm2pSopAbqE5dQWE0ET8aR5.jpg",
+        "movieDes": "Revisit the epic heroes, villains and moments from across the MCU in preparation for the stories still to come. Each dynamic segment feeds directly into the upcoming series — setting the stage for future events. This series weaves together the many threads that constitute the unparalleled Marvel Cinematic Universe.",
+        "movieID": "96",
+        "movieName": "Marvel Studios Legends",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/EpDuYIK81YtCUT3gH2JDpyj8Qk.jpg",
+        "movieYear": "2021-01-08",
+        "type": "TV"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/bltNf2ajBm3wkfiF5Lglw7DS0vk.jpg",
+        "movieDes": "Go behind the scenes of the shows and movies of the Marvel Cinematic Universe, following the filmmakers, cast and crew, and Marvel heroes every step of the way.",
+        "movieID": "97",
+        "movieName": "Marvel Studios Assembled",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/v2BHRwtQVkt5fssLdo5MpFgHJPY.jpg",
+        "movieYear": "2021-03-12",
+        "type": "TV"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/33j33midGw49BBxiqlNZeZ6PZ0O.jpg",
+        "movieDes": "Wanda Maximoff and Vision—two super-powered beings living idealized suburban lives—begin to suspect that everything is not as it seems.",
+        "movieID": "98",
+        "movieName": "WandaVision",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/glKDfE6btIRcVB5zrjspRIs4r52.jpg",
+        "movieYear": "2021-01-15",
+        "type": "TV"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/aTjbqMONy77fHJrIYu14g1F0d5h.jpg",
+        "movieDes": "Following the events of “Avengers: Endgame”, the Falcon, Sam Wilson and the Winter Soldier, Bucky Barnes team up in a global adventure that tests their abilities, and their patience.",
+        "movieID": "99",
+        "movieName": "The Falcon and the Winter Soldier",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/6kbAMLteGO8yyewYau6bJ683sw7.jpg",
+        "movieYear": "2021-03-19",
+        "type": "TV"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/bZGAX8oMDm3Mo5i0ZPKh9G2OcaO.jpg",
+        "movieDes": "After stealing the Tesseract during the events of “Avengers: Endgame,” an alternate version of Loki is brought to the mysterious Time Variance Authority, a bureaucratic organization that exists outside of time and space and monitors the timeline. They give Loki a choice: face being erased from existence due to being a “time variant” or help fix the timeline and stop a greater threat.",
+        "movieID": "100",
+        "movieName": "Loki",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/kEl2t3OhXc3Zb9FBh1AuYzRTgZp.jpg",
+        "movieYear": "2021-06-09",
+        "type": "TV"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/4N6zEMfZ57zNEQcM8gWeERFupMv.jpg",
+        "movieDes": "Taking inspiration from the comic books of the same name, each episode explores a pivotal moment from the Marvel Cinematic Universe and turns it on its head, leading the audience into uncharted territory.",
+        "movieID": "101",
+        "movieName": "What If...?",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/lztz5XBMG1x6Y5ubz7CxfPFsAcW.jpg",
+        "movieYear": "2021-08-11",
+        "type": "TV"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/1R68vl3d5s86JsS2NPjl8UoMqIS.jpg",
+        "movieDes": "Former Avenger Clint Barton has a seemingly simple mission: get back to his family for Christmas. Possible? Maybe with the help of Kate Bishop, a 22-year-old archer with dreams of becoming a superhero. The two are forced to work together when a presence from Barton’s past threatens to derail far more than the festive spirit.",
+        "movieID": "102",
+        "movieName": "Hawkeye",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/pqzjCxPVc9TkVgGRWeAoMmyqkZV.jpg",
+        "movieYear": "2021-11-24",
+        "type": "TV"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/iux1vKPT7Vw1AzetZb4Jz6wfYsm.jpg",
+        "movieDes": "When Steven Grant, a mild-mannered gift-shop employee, becomes plagued with blackouts and memories of another life, he discovers he has dissociative identity disorder and shares a body with mercenary Marc Spector. As Steven/Marc’s enemies converge upon them, they must navigate their complex identities while thrust into a deadly mystery among the powerful gods of Egypt.",
+        "movieID": "103",
+        "movieName": "Moon Knight",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/YksR65as1ppF2N48TJAh2PLamX.jpg",
+        "movieYear": "2022-03-30",
+        "type": "TV"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/rlCRM7U5g2hcU1O8ylGcqsMYHIP.jpg",
+        "movieDes": "A great student, avid gamer, and voracious fan-fic scribe, Kamala Khan has a special affinity for superheroes, particularly Captain Marvel. However, she struggles to fit in at home and at school — that is, until she gets superpowers like the heroes she’s always looked up to. Life is easier with superpowers, right?",
+        "movieID": "104",
+        "movieName": "Ms. Marvel",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/ls2Hl8CXmqEHvkDqkN3fRtmDodK.jpg",
+        "movieYear": "2022-06-08",
+        "type": "TV"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/4bsz75kSdeVQm9u5aD87ciRpYVW.jpg",
+        "movieDes": "Everybody needs some alone time to relax and wash up, but things go quite differently when you’re a Flora Colossi toddler.",
+        "movieID": "105",
+        "movieName": "Groot Takes a Bath",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/sN7FJP06TsNNtK9Jr77dc25yI82.jpg",
+        "movieYear": "2022-08-10",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/tTrZap8lEJsdpnab5yIR3d9bedg.jpg",
+        "movieDes": "Groot discovers a miniature civilization that believes the seemingly enormous tree toddler is the hero they’ve been waiting for.",
+        "movieID": "106",
+        "movieName": "The Little Guy",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/lPzcizL8PdS2U1q0rfhlVn00b9l.jpg",
+        "movieYear": "2022-08-10",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/9bColKVEAaWfmOLiLZoUhdYfevy.jpg",
+        "movieDes": "Following the events of “Guardians of the Galaxy Vol. 1,” Baby Groot is finally ready to try taking his first steps out of his pot—only to learn you have to walk before you can run.",
+        "movieID": "107",
+        "movieName": "Groot's First Steps",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/1ifiV9ZJD4tC3tRYcnLIzH0meaB.jpg",
+        "movieYear": "2022-08-10",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/jaEWCQ93FUGCp4p59cLktWUuYOS.jpg",
+        "movieDes": "Groot investigates a spooky noise that’s been haunting the Quadrant, which leads to an intense dance off.",
+        "movieID": "108",
+        "movieName": "Groot's Pursuit",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/z5AQHYTTx7DzG9CRd01ny9DtqNE.jpg",
+        "movieYear": "2022-08-10",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/qtKlSjETlYzbq4URtxocQtKce8d.jpg",
+        "movieDes": "Groot sets out to paint a family portrait of himself and the Guardians, only to discover just how messy the artistic process can be.",
+        "movieID": "109",
+        "movieName": "Magnum Opus",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/8p8JsKokKbuNCn9yBirAg1oEwGd.jpg",
+        "movieYear": "2022-07-18",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/9GvhICFMiRQA82vS6ydkXxeEkrd.jpg",
+        "movieDes": "Jennifer Walters navigates the complicated life of a single, 30-something attorney who also happens to be a green 6-foot-7-inch superpowered hulk.",
+        "movieID": "110",
+        "movieName": "She-Hulk: Attorney at Law",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/hJfI6AGrmr4uSHRccfJuSsapvOb.jpg",
+        "movieYear": "2022-08-18",
+        "type": "TV"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/pfAZP7JvTTxqgq7n6A1OYgkAdEW.jpg",
+        "movieDes": "On a dark and somber night, a secret cabal of monster hunters emerge from the shadows and gather at the foreboding Bloodstone Temple following the death of their leader. In a strange and macabre memorial to the leader’s life, the attendees are thrust into a mysterious and deadly competition for a powerful relic—a hunt that will ultimately bring them face to face with a dangerous monster.",
+        "movieID": "111",
+        "movieName": "Werewolf by Night",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/jmv7EbqBuEk4V1U7OoSBaxkwawO.jpg",
+        "movieYear": "2022-09-25",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/rpLOGbf71APcL6rJRaGpAOLUDfE.jpg",
+        "movieDes": "Before Star-Lord, Gamora, Drax, Rocket, Mantis, and Groot hit the big screen with Guardians of the Galaxy Vol. 3 in 2023, watch the Guardians engage in some spirited shenanigans in an all-new original special, created for Disney+, during the 2022 holiday season.",
+        "movieID": "112",
+        "movieName": "The Guardians of the Galaxy Holiday Special",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/A7NLWwvgzlbg8RBJKPHlEszdD74.jpg",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/gxD8XuzBzTef2A4yKQ3cRRDl3rr.jpg",
+        "movieDes": "Nick Fury and Talos discover a faction of shapeshifting Skrulls who have been infiltrating Earth for years.",
+        "movieID": "113",
+        "movieName": "Secret Invasion",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/ySkya7tPCuT1a4gsewyNzRi9cli.jpg",
+        "type": "TV"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/z1ORktzKYzEUifGn9iIKeL4T1TG.jpg",
+        "movieDes": "After her ruthless behavior in New York City catches up with her in her hometown, Maya Lopez must face her past, reconnect with her Native American roots and embrace the meaning of family and community if she ever hopes to move forward.",
+        "movieID": "114",
+        "movieName": "Echo",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/3bv5Dv3YmQfzg5ckQMwzCUQ89hU.jpg",
+        "type": "TV"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/3Wh6RYyoqBHkjugcfVrypjH8qQv.jpg",
+        "movieDes": "Genius inventor Riri Williams creates the most advanced suit of armor since Iron Man and becomes Ironheart.",
+        "movieID": "115",
+        "movieName": "Ironheart",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/ha1kackPwP1BLtyibzuv5hABiDk.jpg",
+        "type": "TV"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/wPnapuJNdWe27IAE5z2Hieo4Yh.jpg",
+        "movieDes": "Follow Agatha Harkness before and after her appearance in WandaVision.",
+        "movieID": "116",
+        "movieName": "Agatha: Coven of Chaos",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/A4JyrpPCsw57E0JHcZK7TDPVPqP.jpg",
+        "type": "TV"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/5NGuM3zv8KjFg7k0FBZ0UdeLFGv.jpg",
+        "movieDes": "An upcoming Disney+ series featuring Matt Murdock aka Daredevil in the Marvel Cinematic Universe.",
+        "movieID": "117",
+        "movieName": "Daredevil: Born Again",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/t2MKhbLkSlMduIukClOXFMK9LhP.jpg",
+        "type": "TV"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/h7BU4fdLjF8ly8NF8mJ4hAQOLKU.jpg",
+        "movieDes": "James Rhodes aka War Machine faces the consequences of Tony Stark's worst fear coming true: what happens when his tech falls into the wrong hands?",
+        "movieID": "118",
+        "movieName": "Armor Wars",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/vDbzi8eM710THVCwjfqVU8a5E3g.jpg",
+        "movieYear": "",
+        "type": "Movie"
+    },
+    {
+        "backdrop": "http://image.tmdb.org/t/p/w780/nSJZ1fuINwSVAx3x9ZEk11SUoaW.jpg",
+        "movieDes": "An animated series from Marvel Studios that explores new stories in the iconic ‘90s timeline of the original series.",
+        "movieID": "119",
+        "movieName": "X-Men '97",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/kZhODsClYVftvqwwZB7nPcuA1km.jpg",
+        "type": "TV"
+    },
+    {
+        "backdrop": "",
+        "movieDes": "Follow Peter Parker on his way to becoming Spider-Man, with a journey unlike we've ever seen.",
+        "movieID": "120",
+        "movieName": "Spider-Man",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/7ecqjxf49CaTsqQFIUd1iceoXZB.jpg",
+        "type": "TV"
+    },
+    {
+        "backdrop": "",
+        "movieDes": "The Marvel Universe is reimagined as a new generation of heroes battle against an ever-spreading zombie scourge.",
+        "movieID": "121",
+        "movieName": "Marvel Zombies",
+        "movieThumb": "http://image.tmdb.org/t/p/w342/vK2ZJlnurjxajVXGxy6KMeHJuW8.jpg",
+        "type": "TV"
+    }
+]
